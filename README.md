@@ -1,1 +1,1 @@
-# Neural-Networks-Tasks
+# Deep-Learning-Tasks
